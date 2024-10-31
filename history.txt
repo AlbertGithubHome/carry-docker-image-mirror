@@ -1,0 +1,2 @@
+gitlab/gitlab-ee:latest
+gitlab/gitlab-ce:latest
