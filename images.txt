@@ -1,1 +1,1 @@
-rancher/rancher
+jenkins/jenkins:lts
