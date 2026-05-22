@@ -1,3 +1,4 @@
 gitlab/gitlab-ee:latest
 gitlab/gitlab-ce:latest
 rancher/rancher
+jenkins/jenkins:lts-jdk17
